@@ -1,4 +1,4 @@
-# Dily Progress Bar
+# Daily Progress Bar
 
 This application provides a progress bar which tracks how much work you have still left in a day and how much overtime you have collected.
 Note that it uses the time of when it was **started up** first as a reference for this.
