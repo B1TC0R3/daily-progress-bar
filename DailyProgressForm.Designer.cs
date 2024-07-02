@@ -41,7 +41,7 @@ partial class DailyProgressForm
         timer.Start();
 
         DrawLabels();
-        Update();
+        Refresh();
     }
 
     private void DrawLabels() 
